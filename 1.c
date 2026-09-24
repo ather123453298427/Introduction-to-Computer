@@ -6,7 +6,7 @@ int main ()
 Computers are used in education, business, healthcare, banking, communication, and entertainment.");
 
 
-printf("Types of Computers/n
+printf("/nTypes of Computers/n
 
 Supercomputers are Used for complex calculations and scientific research.
 Mainframe Computers are Used by large organizations to process large amounts of data.
