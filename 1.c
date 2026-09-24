@@ -13,6 +13,12 @@ Mainframe Computers are Used by large organizations to process large amounts of 
 Personal Computers are Used by individuals, such as desktops and laptops.
 Embedded Computers are Built into devices such as cars and washing machines.");
 
-
+printf(" /nHistory of Computers/n
+First Generation is Used vacuum tubes./n
+Second Generation is Used transistors./n
+Third Generation is Used integrated circuits./n
+Fourth Generation is Introduced microprocessors and personal computers./n
+Fifth Generation is Focuses on artificial intelligence and advanced computing.");
   
+  return 0;
   }
